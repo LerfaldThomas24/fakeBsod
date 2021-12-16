@@ -32,6 +32,7 @@ echo Next
 )>%tmp%%~n0.vbs
 @cscript.EXE /noLogo "%tmp%%~n0.vbs" "%~1"
 echo(
+exit /b
 ::**************************************************************
 :Next
 color 0C
