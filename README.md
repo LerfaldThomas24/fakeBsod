@@ -1,2 +1,0 @@
-# fakeBsod
-Prank
